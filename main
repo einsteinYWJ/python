@@ -1,0 +1,13 @@
+# encoding: utf-8
+"""@version: python3.6
+ @author: ‘weijiay‘
+ @license: Apache Licence
+ @contact:
+ @site:
+ @software: PyCharm Community Edition
+ @file: main.py
+ @time: 2019/10/18 16:08
+ """
+import sys
+import os
+
